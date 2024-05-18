@@ -1,0 +1,45 @@
+{
+   "users": {
+      "6587602438": {
+         "limit": 25,
+         "lastChat": 1715929635500,
+         "premium": true,
+         "name": "rulskeyy",
+         "banned": false
+      },
+      "5855857581": {
+         "limit": 25,
+         "lastChat": 1716001107320,
+         "premium": false,
+         "name": "pannoffc",
+         "banned": false
+      },
+      "5954171366": {
+         "limit": 25,
+         "lastChat": 1716001304642,
+         "premium": false,
+         "name": "HyuuOffc",
+         "banned": false
+      },
+      "5703757064": {
+         "limit": 25,
+         "lastChat": 1716002132268,
+         "premium": false,
+         "name": "Dixy4u",
+         "banned": false
+      }
+   },
+   "chats": {
+      "-1002130157131": {
+         "lastChat": 1716000715761,
+         "mute": false,
+         "welcome": true,
+         "leave": true,
+         "banned": false,
+         "chatAi": false
+      }
+   },
+   "settings": {
+      "model": "-"
+   }
+}
